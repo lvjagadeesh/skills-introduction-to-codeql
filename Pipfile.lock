@@ -5,6 +5,22 @@
         },
         "pipfile-spec": 6,
         "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "_meta": {
+        "hash": {
+            "sha256": "069f33d2dc75b242fa5ee44daf090c80831812dc6cc59824e94c22a677eac958"
+        },
+        "pipfile-spec": 6,
+        "requires": {
             "python_version": "3.8"
         },
         "sources": [
